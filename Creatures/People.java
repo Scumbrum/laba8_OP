@@ -1,3 +1,5 @@
+package Creatures;
+
 import java.util.Comparator;
 
 public class People {

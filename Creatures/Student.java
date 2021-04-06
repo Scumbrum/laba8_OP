@@ -1,4 +1,6 @@
-public class Student extends People{
+package Creatures;
+
+public class Student extends People {
     private Integer averageMark;
     public Student(String name, Integer age) {
         super(name, age);

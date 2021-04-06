@@ -1,6 +1,7 @@
+import Creatures.People;
+import Creatures.Student;
+
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.Comparator;
 import java.util.TreeSet;
 
 public class Main {
